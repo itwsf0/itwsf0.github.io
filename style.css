@@ -3,7 +3,7 @@
 -------------------- */
 
 :root {
-  --theme-color: #778899;
+  --theme-color: #a4c6ff;
 }
 
 * {
@@ -38,9 +38,6 @@ a {
   color: var(--theme-color);
   text-decoration: none;
 }
-
-.hover-link:hover {
-        text-decoration: underline; /* リンクをホバーした時、下線を出す */
 
 /* --------------------
         リスト
