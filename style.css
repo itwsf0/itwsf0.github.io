@@ -39,6 +39,9 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+        text-decoration: underline; /* リンクをホバーした時、下線を出す */
+
 /* --------------------
         リスト
 -------------------- */
